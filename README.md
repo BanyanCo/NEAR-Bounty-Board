@@ -9,7 +9,8 @@ Updated soon on https://banyan.gg/bounty
 
 
 # How to Submit A Bounty
-Please submit your bounty (make sure to go to nearhacks.com / contact to talk to the sponsorship coordinator first) as a Github Issue [BOUNTY REQUEST] in the following format
+Please submit your bounty https://github.com/BanyanCo/NEAR-Bounty-Board/issues
+> (make sure to go to nearhacks.com / contact to talk to the sponsorship coordinator first) as a Github Issue [BOUNTY REQUEST] in the following format
 _________
 ## Bounty Name
 > Name your bounty, this should be short
@@ -17,7 +18,7 @@ _________
 ## Bounty Description
 > Describe your bounty here in detail. This should be the longest portion of the application
 
-## Hacker House / Deadline
+## Hackathon  / Deadline
 > Which hacker house/ hackathon and deadline date are you submitting this bounty for
 
 ## Bounty Amount
