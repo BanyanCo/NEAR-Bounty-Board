@@ -21,7 +21,7 @@ assignees: ''
 ## Bounty Amount
 > How much in total bounty in USD will you be giving out
 
-## NUmber of Winners
+## Number of Winners
 > How many prizes will be awarded
 
 ## Currency
@@ -34,7 +34,7 @@ assignees: ''
 > Put the name and website of the sponsoring organization
 
 ## Rules
-> Put rules and ellgibility submissions for this bounty.
+> Put rules and eligibility submissions for this bounty.
 
 
 ## Github User Names of Judges
