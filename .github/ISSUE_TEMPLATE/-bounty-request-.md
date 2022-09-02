@@ -18,6 +18,17 @@ assignees: ''
 ## Hackathon  / Deadline
 > Which hacker house/ hackathon and deadline date are you submitting this bounty for
 
+## Rules
+> Put rules and eligibility submissions for this bounty.
+
+## Github User Names of Judges
+> Put the usernames of judges for this bounty track. YOU MUST JUDGE if you submit a bounty and it gets approved with funding.
+
+## Organization
+> Put the name and website of the organization you represent. Leave blank if you are an individual.
+
+# For Those Funding
+
 ## Bounty Amount
 > How much in total bounty in USD will you be giving out. If you need us to assist with funding, enter "NEED FUNDING: {$IDEAL AMOUNT TO INCENTIVIZE FUNDING}"
 
@@ -29,13 +40,3 @@ assignees: ''
 
 ## Sponsorship Agreement
 > Have you already discussed this bounty with the NEAR HACKS sponsorship coordinator nearhacks.com/contact) Leaving blank is funding is needed.
-
-## Organization
-> Put the name and website of the organization you represent. Leave blank if you are an individual.
-
-## Rules
-> Put rules and eligibility submissions for this bounty.
-
-
-## Github User Names of Judges
-> Put the usernames of judges for this bounty track. YOU MUST JUDGE if you submit a bounty and it gets approved with funding.
