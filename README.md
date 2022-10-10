@@ -1,5 +1,5 @@
 # NEAR-Bounty-Board
-The official NEAR ecosystem bounty board for the recurring traveling hackathon / hacker houses called "NEAR Hacks"
+The official NEAR ecosystem bounty board for the recurring traveling hackathon / hacker houses called "NEAR HACKS"
 
 
 For the updated Bounty Board go to https://nearhacks.com/bounty
